@@ -1,0 +1,38 @@
+body{
+
+    background-image: url(1200px-Geometry.jpg) ;
+    
+}
+#formulario{
+    background-color: rgba(13, 13, 14, 0.5);
+    
+    padding: 20px;
+    padding-top: 10px;
+    border-radius: 10%;
+}
+#salida{
+    color: aliceblue;
+    font-size: 20px;
+    background-color: rgba(13, 13, 14, 0.5);
+}
+input{
+    border-color: black;
+}
+label{
+    color: aliceblue;
+}
+#titulo{
+    color: aliceblue;
+    background-color: rgba(13, 13, 14, 0.5);
+    box-sizing: border-box;
+    border-radius: 30%;
+    font-size: 30px;
+    margin-top: 100px;
+    padding: 10px;
+  
+}
+table{
+    color: whitesmoke;
+    background-color: black;
+
+}
